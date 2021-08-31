@@ -1,1 +1,1 @@
-"Know more"s will be stored here
+"Know more"s are stored here
